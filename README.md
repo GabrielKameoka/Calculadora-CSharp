@@ -19,7 +19,7 @@ Uma calculadora básica desenvolvida em C# para realizar operações aritmética
 **Como Usar:**
 1. **Clonar o repositório:**
    ```bash
-   git clone [[URL inválido removido](https://github.com/GabrielKameoka/Calculadora-CSharp)]
+   git clone https://github.com/GabrielKameoka/Calculadora-CSharp
 * **Mais Detalhes:**
   * **Algoritmos:** Explique brevemente os algoritmos utilizados para realizar os cálculos.
   * **Estrutura do Código:** Descreva a organização dos arquivos e classes.
